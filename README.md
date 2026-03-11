@@ -1,52 +1,69 @@
-<h1 align="center">Olá 👋, eu sou Marlon Oliveira</h1>
+<h1 align="center">Marlon Oliveira</h1>
 
 <p align="center">
-Desenvolvedor Front-End | Angular | Flutter | PHP <br>
-Estudando Segurança da Informação e Redes
+Desenvolvedor focado em criar soluções tecnológicas com impacto real.  
+Apaixonado por programação, inovação e construção de produtos digitais.
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Front-End+Developer;Angular+Developer;Flutter+Developer;Cybersecurity+Student" />
+Atuo no desenvolvimento de aplicações web e mobile, participo de hackathons
+e gosto de transformar ideias em soluções práticas que resolvem problemas
+reais de pessoas e empresas.
 </p>
 
 ---
 
-### 🚀 Tecnologias
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,angular,flutter,php,git,github,vscode" />
-</p>
-
----
-
-### 📊 Estatísticas do GitHub
+# 🚀 Stack Tecnológica
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,ts,ruby,rails,php,nodejs,postgres,mysql,git,linux,docker" />
 </p>
-
----
-
-### 🔥 Streak de contribuições
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEUUSUARIO&theme=tokyonight" />
+React • Next.js • Angular • Tailwind CSS • TypeScript  
+Ruby on Rails • PHP • Node.js  
+PostgreSQL • MySQL  
+Git / CI-CD • Linux • Docker
 </p>
 
 ---
 
-### 📌 Projetos em destaque
+# 🏆 Hackathons & Conquistas
 
-📚 Biblioteca Digital  
-Sistema em **PHP MVC** para gerenciamento de biblioteca.
+🥇 **1º Lugar — Hackathon Voucher Desenvolvedor**  
+Sistema de **gestão de finanças para pequenos empreendedores**
 
-📱 Fila Zero  
-Aplicativo criado em **React Native + Expo** para reduzir filas em eventos.
+🚀 **Hackathon Senac Decola**  
+Solução inovadora em **tecnologia e saúde** desenvolvida com meu time **GenMek**
+
+🥉 **3º Lugar — Missão Sindsuper**  
+Sistema de **gestão inteligente de escalas para supermercados**
 
 ---
 
-### 📫 Contato
+# 💻 Programando...
 
-📧 marlonsantananoliveira2007@gmail.com  
-💼 LinkedIn: linkedin.com/in/marlon-oliveira-234929333
+<p align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+</p>
+
+---
+
+# 🏅 Premiações
+
+🏆 Hackathon Voucher Desenvolvedor — 1º Lugar  
+🥉 Missão Sindsuper — 3º Lugar  
+🚀 Participação e desenvolvimento de soluções em hackathons de inovação
+
+---
+
+# 📫 Contato
+
+💼 LinkedIn  
+https://linkedin.com/in/marlon-oliveira-234929333  
+
+📧 Email  
+marlonsantananoliveira2007@gmail.com  
+
+🌐 Portfólio  
+marlonoliveira.com.br
