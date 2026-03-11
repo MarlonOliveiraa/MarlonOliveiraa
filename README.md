@@ -34,12 +34,6 @@ e gosto de transformar ideias em soluções práticas que resolvem problemas rea
 
 ---
 
-## 💻 Coding Mode
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450"/>
-
----
-
 ## 🏆 Hackathons & Premiações
 
 🥇 **1º Lugar — Hackathon Voucher Desenvolvedor**  
