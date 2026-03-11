@@ -21,7 +21,13 @@ reais de pessoas e empresas.
 
 ---
 
-# 🏆 Hackathons & Conquistas
+<p align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+</p>
+
+---
+
+# 🏅 Premiações
 
 🥇 **1º Lugar — Hackathon Voucher Desenvolvedor**  
 Sistema de **gestão de finanças para pequenos empreendedores**
@@ -31,22 +37,6 @@ Solução inovadora em **tecnologia e saúde** desenvolvida com meu time **GenMe
 
 🥉 **3º Lugar — Missão Sindsuper**  
 Sistema de **gestão inteligente de escalas para supermercados**
-
----
-
-# 💻 Programando...
-
-<p align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
-</p>
-
----
-
-# 🏅 Premiações
-
-🏆 Hackathon Voucher Desenvolvedor — 1º Lugar  
-🥉 Missão Sindsuper — 3º Lugar  
-🚀 Participação e desenvolvimento de soluções em hackathons de inovação
 
 ---
 
