@@ -2,6 +2,10 @@
 
 ---
 
+<table>
+<tr>
+<td width="60%">
+
 ## 👨‍💻 Sobre mim
 
 Desenvolvedor focado em criar **soluções tecnológicas com impacto real**.  
@@ -9,6 +13,16 @@ Apaixonado por **programação, empreendedorismo, inovação e construção de p
 
 Atuo no desenvolvimento de aplicações **web e mobile**, participo de **hackathons**  
 e gosto de transformar ideias em soluções práticas que resolvem problemas reais.
+
+</td>
+
+<td width="40%">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
