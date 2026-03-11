@@ -1,29 +1,34 @@
-<h1 align="center">Marlon Oliveira</h1>
+<table>
+<tr>
+<td width="160">
 
-<p align="center">
+<img src="https://avatars.githubusercontent.com/u/000000?v=4" width="130"/>
+
+</td>
+<td>
+
+<h1>Marlon Oliveira</h1>
+
 Desenvolvedor focado em criar soluções tecnológicas com impacto real.  
 Apaixonado por programação, inovação e construção de produtos digitais.
-</p>
 
-<p align="center">
-Atuo no desenvolvimento de aplicações web e mobile, participo de hackathons
-e gosto de transformar ideias em soluções práticas que resolvem problemas
+Atuo no desenvolvimento de aplicações web e mobile, participo de hackathons  
+e gosto de transformar ideias em soluções práticas que resolvem problemas  
 reais de pessoas e empresas.
-</p>
+
+</td>
+</tr>
+</table>
 
 ---
 
 # 🚀 Stack Tecnológica
 
-<p align="center">
 <img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,ts,ruby,rails,php,nodejs,postgres,mysql,git,linux,docker" />
-</p>
 
 ---
 
-<p align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
-</p>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480"/>
 
 ---
 
