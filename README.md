@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Olá, eu sou Marlon Oliveira
 
-<!--
-**MarlonOliveiraa/MarlonOliveiraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor Front-End  
+🎓 Estudante de Tecnologia  
+📍 Campo Grande - MS
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Angular
+- Flutter
+- PHP
+- JavaScript
+- HTML / CSS
+- Git e GitHub
+
+## 📚 Atualmente aprendendo
+
+- Segurança da Informação
+- Redes e baixo nível (bits, bytes, Assembly)
+- Integração de APIs
+- Desenvolvimento Mobile
+
+## 🔨 Projetos em destaque
+
+📚 Biblioteca Digital  
+Sistema web desenvolvido em PHP com arquitetura MVC.
+
+📱 Fila Zero (Hackathon)  
+Aplicativo para reduzir filas em eventos e serviços.
+
+## 📫 Contato
+
+Email: marlonsantananoliveira2007@gmail.com  
+LinkedIn: linkedin.com/in/marlon-oliveira-234929333
