@@ -19,13 +19,6 @@ reais de pessoas e empresas.
 <img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,ts,ruby,rails,php,nodejs,postgres,mysql,git,linux,docker" />
 </p>
 
-<p align="center">
-React • Next.js • Angular • Tailwind CSS • TypeScript  
-Ruby on Rails • PHP • Node.js  
-PostgreSQL • MySQL  
-Git / CI-CD • Linux • Docker
-</p>
-
 ---
 
 # 🏆 Hackathons & Conquistas
@@ -60,10 +53,10 @@ Sistema de **gestão inteligente de escalas para supermercados**
 # 📫 Contato
 
 💼 LinkedIn  
-https://linkedin.com/in/marlon-oliveira-234929333  
+https://linkedin.com/in/marlonnoliveiraa 
 
 📧 Email  
 marlonsantananoliveira2007@gmail.com  
 
 🌐 Portfólio  
-marlonoliveira.com.br
+https://marlonoliveira.com.br
