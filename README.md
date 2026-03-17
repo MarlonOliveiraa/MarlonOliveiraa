@@ -34,7 +34,7 @@ e gosto de transformar ideias em soluções práticas que resolvem problemas rea
 
 ---
 
-## 🏆 Hackathons & Premiações
+## 🏆 Premiações
 
 🥇 **1º Lugar — Hackathon Voucher Desenvolvedor**  
 Sistema de **gestão de finanças para pequenos empreendedores**
